@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777874816668",
+    "project_id": "nammavastra-71360",
+    "storage_bucket": "nammavastra-71360.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777874816668:android:26fe9f79ac317152403759",
+        "android_client_info": {
+          "package_name": "com.example.nammavastra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFHut31K3TAX66teIMPH3zPXZnjUWAE2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
